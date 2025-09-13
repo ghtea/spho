@@ -1,21 +1,21 @@
 {
   "notices": [
     {
-      "id": "1",
+      "id": "01637d23-ecb0-4f3b-aa6c-bf06c88352e5",
       "message": "서버 점검이 9월 15일 01:00~02:00에 진행됩니다.",
-      "startAt": "2025-09-14T23:00:00Z",
+      "startAt": "2025-09-12T23:00:00Z",
       "endAt": "2025-09-15T02:00:00Z",
       "priority": 10,
       "dismissible": true
     },
     {
-      "id": "2",
-      "message": "앱 최신 버전으로 업데이트하세요.",
+      "id": "8bbabc04-1212-4e2e-9a4a-c75b503d991c",
+      "message": "현재 중고거래를 완료하는데 있어서 일부 오작동이 발생하고 있습니다. 신속히 수정 후 업데이트하도록 하겠습니다. 양해 부탁드립니다.",
       "startAt": "2025-09-10T00:00:00Z",
       "endAt": "2025-09-20T23:59:59Z",
       "priority": 5,
       "dismissible": true,
-      "linkUrl": "https://example.com/update"
+      "linkUrl": "https://www.spellana.com"
     }
   ]
 }
