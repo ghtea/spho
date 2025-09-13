@@ -1,0 +1,21 @@
+{
+  "notices": [
+    {
+      "id": "1",
+      "message": "서버 점검이 9월 15일 01:00~02:00에 진행됩니다.",
+      "startAt": "2025-09-14T23:00:00Z",
+      "endAt": "2025-09-15T02:00:00Z",
+      "priority": 10,
+      "dismissible": true
+    },
+    {
+      "id": "2",
+      "message": "앱 최신 버전으로 업데이트하세요.",
+      "startAt": "2025-09-10T00:00:00Z",
+      "endAt": "2025-09-20T23:59:59Z",
+      "priority": 5,
+      "dismissible": true,
+      "linkUrl": "https://example.com/update"
+    }
+  ]
+}
