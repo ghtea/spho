@@ -1,5 +1,13 @@
 {
   "notices": [ 
+    {
+      "id": "bd585d0c-84e1-4d1a-bb3e-ca80483c9de9",
+      "message": "서버 점검이 9월 28일 오후 6시 55분부터 오후 7까지 진행됩니다.",      
+      "startAt": "2025-09-28T18:55:00+03:00",
+      "endAt": "2025-09-28T19:00:00+03:00",
+      "priority": 10,
+      "dismissible": false
+    }
   ],
   "maintenanceUntil": "2025-09-28T19:00:00+03:00"
 }
