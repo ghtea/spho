@@ -4,5 +4,7 @@
   "rateLimitMinIntervalMs": 400,
   "rateLimitWindowSeconds": 60,
   "rateLimitMaxCallsPerWindow": 20,
-  "rateLimitEnforcedKeys": []
+  "rateLimitEnforcedKeys": [
+    "PostsService:readHotPosts"
+  ]
 }
