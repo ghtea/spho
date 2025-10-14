@@ -1,6 +1,6 @@
 {
   "kakaoGroupUrl": "https://open.kakao.com/o/gYLqkpNh",
-  "coordinatorId": "0c1c1c9a-573e-452f-8d61-9fb7615d8a36",
+  "coordinatorId": "f4ba1795-dbad-4b3b-8d88-bb3bc4a4544e",
   "rateLimitMinIntervalMs": 400,
   "rateLimitWindowSeconds": 60,
   "rateLimitMaxCallsPerWindow": 20,
