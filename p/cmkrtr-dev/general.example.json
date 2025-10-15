@@ -6,5 +6,18 @@
   "rateLimitMaxCallsPerWindow": 20,
   "rateLimitEnforcedKeys": [
     "PostsService:readHotPosts"
+  ],
+  "popularRegionLevel1Codes": [
+    "TR-34",
+    "TR-06",
+    "TR-35",
+    "TR-07",
+    "TR-16"
+  ],
+  "popularRegionLevel2Ids": [
+    "1031",
+    "1245",
+    "1045",
+    "1049"
   ]
 }
